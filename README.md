@@ -79,16 +79,8 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions, feel free to reach out:
 
 - **GitHub:** [majshub](https://github.com/majshub)
-
-```
-
-```

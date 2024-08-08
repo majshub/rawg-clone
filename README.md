@@ -1,4 +1,3 @@
-````markdown
 # Game Hub
 
 [![Vercel](https://vercel.com/button)](https://game-hub-two-tau.vercel.app/)
@@ -37,7 +36,6 @@ To run this project locally, follow these steps:
    git clone https://github.com/majshub/rawg-clone.git
    cd rawg-clone
    ```
-````
 
 2. Install the dependencies:
 

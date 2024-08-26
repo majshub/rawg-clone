@@ -4,6 +4,8 @@
 
 **Game Hub** is a React-based web application that serves as a clone of [RAWG.io](https://rawg.io/). It utilizes the RAWG API to provide users with a rich database of video games, allowing them to explore, search, and filter games based on various criteria.
 
+This the project built during Mosh Hamedani's [React course](https://codewithmosh.com/p/ultimate-react-part1). Checkout [codewithmosh.com](https://codewithmosh.com/) for other courses.
+
 ## Live Demo
 
 Check out the live application here: [Game Hub](https://game-hub-two-tau.vercel.app/)
